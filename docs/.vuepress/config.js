@@ -2,7 +2,7 @@ module.exports = {
   title: "strongking",
   description: "strongking博客",
   theme: "reco",
-  base: "/learn-vue/react/",
+  base: "/learn-vue/",
   locales: {
     "/": {
       lang: "zh-CN",
